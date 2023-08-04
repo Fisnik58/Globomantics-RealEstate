@@ -5,7 +5,7 @@ const House = () =>{
         <>
         <div className="d-flex">
             <div style={{marginTop:"5%"}}>  
-                <img src="./house.jpeg"  className=""/>
+                <image src="./house.jpeg"  className="" alt="Hello"/>
             </div>
             <div style={{width:"50%", marginLeft:"3%",marginTop:"5.5%"}}>
                 <h2>Switzerland</h2>
